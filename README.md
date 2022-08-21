@@ -11,7 +11,8 @@ Open a new terminal within the project directory and run:
 
 ### Deploying to aws cloud using AWS Elastic Beanstalk
 
-Link- http://mage-filter-starter-code-dev-dev.us-east-1.elasticbeanstalk.com/
+Link- http://hannah-image-app-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/e/e6/Cute_cat_photo.jpg
 
-or test use Postman file cloud-cdnd-c2-final.postman_collection.json
+
+or use Postman file cloud-cdnd-c2-final.postman_collection.json
 

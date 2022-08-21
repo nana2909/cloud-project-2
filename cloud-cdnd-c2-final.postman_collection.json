@@ -6,12 +6,12 @@
 	},
 	"item": [
 		{
-			"name": "http://localhost:8082/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/8/88/Fishing_Cat_%28Prionailurus_viverrinus%29_3.jpg",
+			"name": "http://localhost:8082/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/e/e6/Cute_cat_photo.jpg",
 			"request": {
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://{{HOST}}/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/8/88/Fishing_Cat_%28Prionailurus_viverrinus%29_3.jpg",
+					"raw": "http://{{HOST}}/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/e/e6/Cute_cat_photo.jpg",
 					"protocol": "http",
 					"host": [
 						"{{HOST}}"
@@ -22,7 +22,7 @@
 					"query": [
 						{
 							"key": "image_url",
-							"value": "https://upload.wikimedia.org/wikipedia/commons/8/88/Fishing_Cat_%28Prionailurus_viverrinus%29_3.jpg"
+							"value": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Cute_cat_photo.jpg"
 						}
 					]
 				}
